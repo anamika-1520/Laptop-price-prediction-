@@ -8,11 +8,11 @@ Built using Python, Pandas, Scikit-learn, and Streamlit.
 
 ## 📸 Demo
 
-![App Screenshot](![Screenshot 2025-07-04 131215](https://github.com/user-attachments/assets/20fa6e3a-3dab-4cab-8d90-136447b35f82)
+!(![Screenshot 2025-07-04 131215](https://github.com/user-attachments/assets/20fa6e3a-3dab-4cab-8d90-136447b35f82)
 )
-![App Screenshot](![Screenshot 2025-07-04 131231](https://github.com/user-attachments/assets/d0903633-9bfd-4e9f-adb3-ae9165f0c41e)
+!(![Screenshot 2025-07-04 131231](https://github.com/user-attachments/assets/d0903633-9bfd-4e9f-adb3-ae9165f0c41e)
 )
-![App Screenshot](![Screenshot 2025-07-04 131239](https://github.com/user-attachments/assets/94cc714b-5f43-4fba-a5fb-a7ab587d2977)
+!(![Screenshot 2025-07-04 131239](https://github.com/user-attachments/assets/94cc714b-5f43-4fba-a5fb-a7ab587d2977)
 )
 > *(Add a screenshot or demo GIF of the app here)*
 
