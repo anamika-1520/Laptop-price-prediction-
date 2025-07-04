@@ -32,7 +32,7 @@ Built using Python, Pandas, Scikit-learn, and Streamlit.
 
 ## 🧾 Dataset Used
 
-- **Source**: Custom-collected dataset / Kaggle / Flipkart scraped data *(specify your source)*  
+- **Source**: from kaggle 
 - **Attributes**:
   - Brand
   - Processor (CPU)
@@ -61,8 +61,8 @@ Built using Python, Pandas, Scikit-learn, and Streamlit.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/laptop-price-predictor.git
-cd laptop-price-predictor
+git clone https://github.com/anamika-1520/Laptop-price-prediction.git
+cd Laptop-price-prediction
 
 # 2. Create virtual environment (optional)
 python -m venv venv
